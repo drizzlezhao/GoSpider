@@ -1,2 +1,1 @@
-readme
-append gpl
+还没写好
